@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m learning c,c++ and python,looking forward to creat something intersting.
 <!--
 **herosociety/herosociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
